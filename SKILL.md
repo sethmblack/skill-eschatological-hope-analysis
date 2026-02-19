@@ -3,7 +3,7 @@ name: eschatological-hope-analysis
 description: Transform present-bound problems into future-oriented vision by beginning with God's promised future and working backward, revealing how the eschatological horizon transforms engagement with the present.
 license: MIT
 metadata:
-  version: 1.0.3931
+  version: 1.0.3932
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
